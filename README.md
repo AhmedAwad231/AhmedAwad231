@@ -2,6 +2,10 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+# 💫 About Me:
+Motivated Data Engineer with hands-on experience in Python, SQL, and Azure. Built real-world data analysis projects using Power BI and cloud technologies. Passionate about building scalable data pipelines and continuously improving technical expertise.
+
+
 ###
 
 <div align="center">
